@@ -1,0 +1,66 @@
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\appsettings.json
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\ADSProject01.exe
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\ADSProject01.deps.json
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\ADSProject01.runtimeconfig.json
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\ADSProject01.dll
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\ADSProject01.pdb
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.csproj.AssemblyReference.cache
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.AssemblyInfoInputs.cache
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.AssemblyInfo.cs
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.csproj.CoreCompileInputs.cache
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.sourcelink.json
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\staticwebassets\msbuild.ADSProject01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\staticwebassets\msbuild.build.ADSProject01.props
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ADSProject01.props
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ADSProject01.props
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\scopedcss\bundle\ADSProject01.styles.css
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProje.E02479A9.Up2Date
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.dll
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\refint\ADSProject01.dll
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.pdb
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ADSProject01.genruntimeconfig.cache
+C:\Users\Betho\Documents\Visual Studio 2022\Projects\ADSProject01\obj\Debug\net8.0\ref\ADSProject01.dll
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\appsettings.json
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\ADSProject01.exe
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\ADSProject01.deps.json
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\ADSProject01.runtimeconfig.json
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\ADSProject01.dll
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\ADSProject01.pdb
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.csproj.AssemblyReference.cache
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.AssemblyInfoInputs.cache
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.AssemblyInfo.cs
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.csproj.CoreCompileInputs.cache
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.sourcelink.json
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\staticwebassets\msbuild.ADSProject01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\staticwebassets\msbuild.build.ADSProject01.props
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ADSProject01.props
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ADSProject01.props
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\scopedcss\bundle\ADSProject01.styles.css
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.csproj.CopyComplete
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.dll
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\refint\ADSProject01.dll
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.pdb
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ADSProject01.genruntimeconfig.cache
+C:\Users\leone\Desktop\ProyectoADS\ADSProject01\obj\Debug\net8.0\ref\ADSProject01.dll
